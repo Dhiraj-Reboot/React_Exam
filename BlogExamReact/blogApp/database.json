@@ -1,0 +1,144 @@
+{
+    "articles": [
+      {
+        "id": 4,
+        "title": "The Future of Quantum Computing",
+        "category": "Technology",
+        "content": "This is a detailed article about: The Future of Quantum Computing. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=4"
+      },
+      {
+        "id": 5,
+        "title": "Mental Health Tips That Actually Work",
+        "category": "Health",
+        "content": "This is a detailed article about: Mental Health Tips That Actually Work. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=5"
+      },
+      {
+        "id": 6,
+        "title": "Best Programming Languages in 2025",
+        "category": "Technology",
+        "content": "This is a detailed article about: Best Programming Languages in 2025. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=6"
+      },
+      {
+        "id": 7,
+        "title": "Breakthroughs in Cancer Research",
+        "category": "Health",
+        "content": "This is a detailed article about: Breakthroughs in Cancer Research. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=7"
+      },
+      {
+        "id": 8,
+        "title": "Stock Market Predictions 2025",
+        "category": "Business",
+        "content": "This is a detailed article about: Stock Market Predictions 2025. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=8"
+      },
+      {
+        "id": 9,
+        "title": "Behind the Scenes of the Latest Marvel Hit",
+        "category": "Entertainment",
+        "content": "This is a detailed article about: Behind the Scenes of the Latest Marvel Hit. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=9"
+      },
+      {
+        "id": 10,
+        "title": "Top 10 CEOs Under 40",
+        "category": "Business",
+        "content": "This is a detailed article about: Top 10 CEOs Under 40. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=10"
+      },
+      {
+        "id": 11,
+        "title": "CRISPR and the Future of Genetics",
+        "category": "Science",
+        "content": "This is a detailed article about: CRISPR and the Future of Genetics. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=11"
+      },
+      {
+        "id": 12,
+        "title": "Why Everyone's Talking About 5G",
+        "category": "Technology",
+        "content": "This is a detailed article about: Why Everyone's Talking About 5G. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=12"
+      },
+      {
+        "id": 13,
+        "title": "Top 5 Young Athletes to Watch",
+        "category": "Sports",
+        "content": "This is a detailed article about: Top 5 Young Athletes to Watch. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=13"
+      },
+      {
+        "id": 14,
+        "title": "Elon Musk’s New Tech Venture",
+        "category": "Technology",
+        "content": "This is a detailed article about: Elon Musk’s New Tech Venture. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=14"
+      },
+      {
+        "id": 15,
+        "title": "Inside the Mind of a Billionaire Investor",
+        "category": "Business",
+        "content": "This is a detailed article about: Inside the Mind of a Billionaire Investor. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=15"
+      },
+      {
+        "id": 16,
+        "title": "Champions League Highlights",
+        "category": "Sports",
+        "content": "This is a detailed article about: Champions League Highlights. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=16"
+      },
+      {
+        "id": 17,
+        "title": "Cricket World Cup Recap",
+        "category": "Sports",
+        "content": "This is a detailed article about: Cricket World Cup Recap. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=17"
+      },
+      {
+        "id": 18,
+        "title": "Oscars 2025: Red Carpet Recap",
+        "category": "Entertainment",
+        "content": "This is a detailed article about: Oscars 2025: Red Carpet Recap. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=18"
+      },
+      {
+        "id": 19,
+        "title": "Healthy Meal Prep on a Budget",
+        "category": "Health",
+        "content": "This is a detailed article about: Healthy Meal Prep on a Budget. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=19"
+      },
+      {
+        "id": 20,
+        "title": "What Is Dark Matter?",
+        "category": "Science",
+        "content": "This is a detailed article about: What Is Dark Matter?. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=20"
+      },
+      {
+        "id": 21,
+        "title": "Ocean Exploration: Next Frontier",
+        "category": "Science",
+        "content": "This is a detailed article about: Ocean Exploration: Next Frontier. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=21"
+      },
+      {
+        "id": 22,
+        "title": "NASA's Latest Mission to Mars",
+        "category": "Science",
+        "content": "This is a detailed article about: NASA's Latest Mission to Mars. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=22"
+      },
+      {
+        "id": 23,
+        "title": "Global Warming: A Ticking Clock",
+        "category": "Science",
+        "content": "This is a detailed article about: Global Warming: A Ticking Clock. Stay tuned for more insights and updates.",
+        "image": "https://picsum.photos/300/200?random=23"
+      }]
+      
+      }
